@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Open Library</string>
+    <string name="search_tab">Search</string>
+    <string name="wish_list_tab">Wish List</string>
+    <string name="enter_favorite">Enter Favorite</string>
+    <string name="add">Add</string>
+</resources>
